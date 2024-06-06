@@ -1,4 +1,4 @@
-# Java_Votaciones
+# Votaciones de Cataluña
 
 Este programa está desarrollado en Java y permite obtener información sobre las votaciones de partidos políticos de Cataluña mediante la aplicación de varios filtros. Los datos se importan desde un archivo CSV utilizando la clase ImportarCSV ubicada en el paquete controller.
 
